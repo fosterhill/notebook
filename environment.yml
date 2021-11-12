@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=3.6
+  - r-tidyverse
+  - python = 3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
